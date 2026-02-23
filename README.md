@@ -13,7 +13,7 @@ The model uses:
 
 SVR captures non-linear relationships between level and salary by fitting predictions within a defined margin while maximizing model stability.
 
-------------------------------------------------------------
+-------------------------------------------------------------
 
 📂 Dataset Description
 
